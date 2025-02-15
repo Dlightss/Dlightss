@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Dlightss
 - 👀 I’m interested in Games
 - 🌱 I’m currently learning GameDev for Unity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: im/Him
+- 💞️ I’m looking to collaborate on Games
 - ⚡ Fun fact: ...
 
 <!---
